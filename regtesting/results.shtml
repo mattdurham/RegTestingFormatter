@@ -1,0 +1,44 @@
+<html>
+<body>
+<style type="text/css"><!--@import url("test.css");--></style>
+<h1><span style="font-family: Helvetica,Arial,sans-serif;text-align: center;"><a href="howto.html">How to read these graphs</a></span></h1><h1><span style="font-family: Helvetica,Arial,sans-serif;text-align: center;">These results are all the collected results and as such are not directly comparable, individual groupings are available at the below links.</span></h1><h1><span style="font-family: Helvetica,Arial,sans-serif;text-align: center;"><a href="Excalibur Regulator Test.shtml">Excalibur Regulator Test</a></span></h1><h1><span style="font-family: Helvetica,Arial,sans-serif;text-align: center;"><a href="Shocker SFT .shtml">Shocker SFT </a></span></h1><h1><span style="font-family: Helvetica,Arial,sans-serif;text-align: center;"><a href="DM7 Test.shtml">DM7 Test</a></span></h1><!--#include virtual="1_Sidewinder.html" --> 
+<!--#include virtual="2_Pi.html" --> 
+<!--#include virtual="3_Pi Take 2.html" --> 
+<!--#include virtual="4_2 Liter - 2.html" --> 
+<!--#include virtual="5_Pi - 1.html" --> 
+<!--#include virtual="6_2Liter - 2.html" --> 
+<!--#include virtual="7_Dynaflow Tank REg.html" --> 
+<!--#include virtual="8_2Liter.html" --> 
+<!--#include virtual="9_Stabalizer.html" --> 
+<!--#include virtual="10_Macdev 05.html" --> 
+<!--#include virtual="11_Fatty Stabalizer.html" --> 
+<!--#include virtual="12_Ergo.html" --> 
+<!--#include virtual="13_BKO Old Style.html" --> 
+<!--#include virtual="14_WGP Tank Regulator.html" --> 
+<!--#include virtual="15_DM7 Stock.html" --> 
+<!--#include virtual="16_Stock Ego8.html" --> 
+<!--#include virtual="17_Palmers Fatty.html" --> 
+<!--#include virtual="18_GEO Reg.html" --> 
+<!--#include virtual="19_AKA SST.html" --> 
+<!--#include virtual="20_SP SIS LP.html" --> 
+<!--#include virtual="21_IReg 02-17-09.html" --> 
+<!--#include virtual="22_micro hp prelim.html" --> 
+<!--#include virtual="23_2liter.html" --> 
+<!--#include virtual="24_2liter.html" --> 
+<!--#include virtual="25_dye.html" --> 
+<!--#include virtual="26_dye.html" --> 
+<!--#include virtual="27_etek.html" --> 
+<!--#include virtual="28_etek.html" --> 
+<!--#include virtual="29_sidewinder.html" --> 
+<!--#include virtual="30_sidewinder.html" --> 
+<!--#include virtual="31_sidewinder.html" --> 
+<!--#include virtual="32_sidewinder.html" --> 
+<!--#include virtual="33_sst.html" --> 
+<!--#include virtual="34_sst.html" --> 
+<!--#include virtual="35_cp.html" --> 
+<!--#include virtual="36_ego8.html" --> 
+<!--#include virtual="37_fatty.html" --> 
+<!--#include virtual="38_geo.html" --> 
+<!--#include virtual="39_2liter.html" --> 
+</html>
+</body>
